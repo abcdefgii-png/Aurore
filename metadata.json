@@ -1,0 +1,5 @@
+{
+  "name": "For Ruan Ruan",
+  "description": "Interactive 3D particle galaxy and cat silhouette gesture experience.",
+  "requestFramePermissions": ["camera"]
+}
